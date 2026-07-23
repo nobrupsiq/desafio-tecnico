@@ -15,4 +15,12 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="10.0.10" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Include="..\Controllers\**\*.cs" />
+    <Compile Include="..\Data\**\*.cs" />
+    <Compile Include="..\DTOs\**\*.cs" />
+    <Compile Include="..\Models\**\*.cs" />
+    <Compile Include="..\Services\**\*.cs" />
+  </ItemGroup>
+
 </Project>
