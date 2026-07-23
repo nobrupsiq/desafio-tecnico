@@ -1,0 +1,1 @@
+Vou utilizar o SQLITE com entity (Vou utilizar para o requisito do teste de que os dados devem permanecer após fechar)
