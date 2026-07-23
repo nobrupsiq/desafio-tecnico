@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L/vxIYN5K/k=",
+  "dgSpecHash": "fnnVEY19/cM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Bruno\\Desktop\\desafio-tecnico\\backend\\ExpenseControl.Api\\ExpenseControl.Api.csproj",
   "expectedPackageFiles": [
@@ -42,7 +42,7 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "O pacote 'Microsoft.OpenApi' 2.0.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
       "projectPath": "C:\\Users\\Bruno\\Desktop\\desafio-tecnico\\backend\\ExpenseControl.Api\\ExpenseControl.Api.csproj",
       "warningLevel": 1,
       "filePath": "C:\\Users\\Bruno\\Desktop\\desafio-tecnico\\backend\\ExpenseControl.Api\\ExpenseControl.Api.csproj",
@@ -54,7 +54,7 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "O pacote 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
+      "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
       "projectPath": "C:\\Users\\Bruno\\Desktop\\desafio-tecnico\\backend\\ExpenseControl.Api\\ExpenseControl.Api.csproj",
       "warningLevel": 1,
       "filePath": "C:\\Users\\Bruno\\Desktop\\desafio-tecnico\\backend\\ExpenseControl.Api\\ExpenseControl.Api.csproj",
