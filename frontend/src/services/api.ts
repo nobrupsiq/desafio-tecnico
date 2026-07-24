@@ -10,7 +10,7 @@ import type {
   TotalGeral,
 } from "../types";
 
-// Ajuste essa URL se sua API estiver rodando em outra porta
+// URL caso a api seja de outra rota
 const API_URL = "http://localhost:5148";
 
 const api = axios.create({
