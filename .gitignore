@@ -9,7 +9,9 @@ build/
 
 # Banco de dados local
 *.db
-
+*.db-shm
+*.db-wal
 # IDE
 .vs/
-.vscode/
+.vscode/*.db-shm
+*.db-wal
